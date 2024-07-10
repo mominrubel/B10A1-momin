@@ -53,3 +53,191 @@
     text-align: center;
     margin: 0 auto;
 }
+
+/* ---------------------- Section Styles ---------------------------*/
+
+/* Section>main box-1 (Why web development) */
+section .main-box-1 {
+    width: 1140px;
+    height: 1395px;
+    border: 1px solid #ffff;
+    margin: 74px auto;
+    background-color: rgb(241, 248, 248);
+}
+
+section .main-box-1 .main-box-1a {
+    width: 946px;
+    height: 1235px;
+    /* border: 2px solid magenta; */
+    margin: 80px auto;
+    background-color: white;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content1 {
+    text-align: center;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content1 h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content1 p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content2 {
+    margin-top: 96px;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid greenyellow; */
+}
+
+section .main-box-1 .main-box-1a .box-1a-content2-text h3 {
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content2-text p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+}
+
+#learn-more-btn {
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content3 {
+    margin-top: 128px;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid greenyellow; */
+}
+
+
+section .main-box-1 .main-box-1a .box-1a-content3-text h3 {
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content3-text p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content4 {
+    margin-top: 96px;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid greenyellow; */
+}
+
+section .main-box-1 .main-box-1a .box-1a-content4-text h3 {
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+section .main-box-1 .main-box-1a .box-1a-content4-text p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+}
+
+
+
+
+/* Section>main box-2 (My Inspiration) */
+section .main-box-2 {
+    width: 1140px;
+    height: 777px;
+    /* border: 2px solid red; */
+    margin: 160px auto;
+}
+
+section .main-box-2 .box-2-text h2 {
+    margin-top: 0;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+section .main-box-2 .box-2-text p {
+    margin-top: 24px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+section .main-box-2 .box-2-video {
+    width: 1140px;
+    height: 614px;
+    margin: 48px auto;
+    border: 2px solid rgb(139, 137, 137);
+    border-radius: 16px;
+}
