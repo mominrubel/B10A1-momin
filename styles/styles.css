@@ -352,3 +352,126 @@ section .box-3-software #box-3-software-a:hover {
     margin: 23px auto;
 }
 
+/*--------- Footer styles -----------*/
+footer .footer-box1 {
+    width: 1140px;
+    height: 314px;
+    border: 1px solid white;
+    margin: 0 auto;
+    background-image: url("/assets/handshake.jpg");
+    background-size: 100% auto;
+    background-position: center;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2);
+}
+
+
+footer .footer-box1 .footer-box1-container {
+    width: 1044px;
+    height: 186px;
+    /* border: 2px solid slateblue; */
+    text-align: center;
+    margin: 64px auto;
+}
+
+footer .footer-box1 .footer-box1-container h2 {
+    margin-top: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+footer .footer-box1 .footer-box1-container p {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+footer #footer-btn {
+    width: 548px;
+    height: 57px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+
+footer #footer-submit {
+    width: 120px;
+    height: 58px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    border: none;
+}
+
+footer #footer-submit:hover {
+    background-color: rgb(196, 191, 191);
+}
+
+footer input {
+    color: rgba(13, 19, 33, 0.4);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+footer button {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+footer .footer-box2 {
+    margin: 80px auto;
+    width: 1440px;
+    height: 100px;
+    /* border: 2px solid red; */
+    background-color: rgb(228, 227, 224);
+}
+
+footer .footer-box2 .footer-box2-container {
+    width: 1140px;
+    height: 36px;
+    margin: 32px 150px;
+    /* border: 2px solid goldenrod; */
+    display: inline-flex;
+    justify-content: space-between;
+    
+}
+
+footer .footer-box2-container p{
+    margin-top: 0;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+footer .footer-icon li{
+    display: inline;
+    list-style: none;
+}
+
+footer .footer-icon ul{
+    margin-top: 0;
+}
+
