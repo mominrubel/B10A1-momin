@@ -241,3 +241,114 @@ section .main-box-2 .box-2-video {
     border: 2px solid rgb(139, 137, 137);
     border-radius: 16px;
 }
+
+
+
+/* Section>main box-3 (My Current Target) */
+section .main-box-3 {
+    width: 1140px;
+    height: 463px;
+    margin: 149px auto;
+    /* border: 2px solid red; */
+    margin-bottom: 40px;
+}
+
+section .box-3-text h2 {
+    margin-top: 0;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+section .box-3-text p {
+    margin-top: 24px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+section .box-3-software {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+section .box-3-software .box-3-software-html {
+    width: 364px;
+    height: 300px;
+    /* border: 2px solid yellow; */
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+section .box-3-software .box-3-software-css {
+    width: 364px;
+    height: 300px;
+    /* border: 2px solid yellow; */
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+
+section .box-3-software .box-3-software-js {
+    width: 364px;
+    height: 300px;
+    /* border: 2px solid yellow; */
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+section .box-3-software #box-3-software-h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+section .box-3-software #box-3-software-p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin: 0;
+}
+
+section .box-3-software #box-3-software-a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+section .box-3-software #box-3-software-a:hover {
+    background-color: cadetblue;
+}
+
+.box-3-software-html-container,
+.box-3-software-css-container,
+.box-3-software-js-container {
+    width: 284px;
+    height: 250px;
+    /* border: 2px solid blue; */
+    margin: 23px auto;
+}
+
